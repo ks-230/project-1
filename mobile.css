@@ -1,0 +1,30 @@
+body{
+    background-color:#D5E1EF;
+}
+.box{
+    background-color: white;
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%,-50%);
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    height: 250px;
+    border-radius: 10px;
+}
+.text1{
+    width: 250px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.text2{
+    width: 250px;
+    text-align: center;
+    font-size: 15px;
+}
